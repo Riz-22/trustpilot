@@ -1,0 +1,5 @@
+{
+  "target": "www.example.com",
+  "limit": 5,
+  "mode": "api"
+}
